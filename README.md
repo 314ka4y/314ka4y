@@ -9,6 +9,8 @@
 - 🐼 I used to calculate aerodynamics resistance, friction, and overheating of disk shape UFO during reentry into the earth atmosphere with different attack angles 
 - 📫 How to reach me +17788873429
 
+“Big data isn’t about bits, it’s about talent.” — Douglas Merrill
+
 ##### Connect with me:
 
 <a href= 'https://www.linkedin.com/in/ssyrvachev/' rel="nofollow"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
