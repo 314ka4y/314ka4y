@@ -1,8 +1,12 @@
 👋 Hello, I’m Sergey or @314ka4y  :) 
 I'm a Data Scientist and recent grad at Flatiron School.
+
 👀 I’m currently improving my computer science skills to improve my performance and use the most in-demand methods.
+
 💞️ I’m always looking to collaborate on projects that make our lives a little bit better
+
 🎮 I enjoy snowboarding, canoying, and continously challenging myself to learn new technologies.
+
 📫 How to reach me +17788873429
 
 
