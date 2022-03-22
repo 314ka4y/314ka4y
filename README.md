@@ -4,7 +4,9 @@
 
 - 👀 I’m currently improving my computer science skills to improve my performance and use the most in-demand methods.
 - 💞️ I’m always looking to collaborate on projects that make our lives a little bit better
-- 🎮 I enjoy snowboarding, canoying, and continously challenging myself to learn new technologies.
+- 🎮 I enjoy snowboarding, canoeing, and continuously challenging myself to learn new technologies.
+- 🚀 I have masters in rocket science and I was specialized in the design of liquid rocket boosters.
+- 🐼 I used to calculate aerodynamics resistance, friction, and overheating of disk shape UFO during reentry into the earth atmosphere with different attack angles 
 - 📫 How to reach me +17788873429
 
 ##### Connect with me:
