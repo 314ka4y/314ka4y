@@ -11,6 +11,7 @@
 
 “Big data isn’t about bits, it’s about talent.” — Douglas Merrill
 
+
 ##### Connect with me:
 
 <a href= 'https://www.linkedin.com/in/ssyrvachev/' rel="nofollow"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
